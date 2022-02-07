@@ -1,6 +1,9 @@
 # cs2263_hw02
 Solves a mathematical expression entered by the user, either through the terminal or through a text file. Utilizes Java for object-oriented approach and widespread usage. 
 
+# Use
+When the project is downloaded or cloned, go to the directory it was cloned to. Run "gradle run --args="", where between the "" you put the content you want. You can input a mathematical expression directly here, or you can have it solve expressions from a file by using -b file-directory. -h will output the commands possible. -o file-directory will output the solution to the file specified. You can run the program with multiple commands at the same time. 
+
 MIT License
 
 Copyright (c) [2022] [Colter Barker]
@@ -22,3 +25,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
