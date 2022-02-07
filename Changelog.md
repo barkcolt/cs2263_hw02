@@ -15,5 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ###Added
 -Equation class with methods for evaluating expressions
 -Functionality to allow input of a function without inputting additional options
-###Changed
 -Built out -b option to evaluate expressions from a txt file
+
+##[1.2.0] - 2022-02-06
+###Added
+-Built out -o option to send results to a file
