@@ -9,4 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2022-02-06
 ### Added
 -Command line interface using apache commons CLI
+-option to get help with program -h
 
+##[1.1.0] - 2022-02-6
+###Added
+-Equation class with methods for evaluating expressions
+-Functionality to allow input of a function without inputting additional options
+###Changed
+-Built out -b option to evaluate expressions from a txt file
